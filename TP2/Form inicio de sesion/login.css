@@ -1,3 +1,6 @@
+
+
+
 .fondodepagina{
     background: url(src/fondogeneral.jpg) no-repeat center center fixed;
     background-size: cover;
@@ -7,14 +10,10 @@
     display: flex;
     justify-content: center;
 }
-.hola{
-    display: block;
-}
-
 
 .fordodeinicio{
-    width: 25vw;
-    height: 80vh;
+    width: 15vw;
+    height: 55vh;
     border: 3px orangered solid;
     margin-top: 80px;
     background-color: white;
@@ -29,14 +28,14 @@
 .logo{
     width: 100px;
     height: 100px;
-    padding-top: 10px;  
+    padding-top: 50px;  
 }
 .fomulario{
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    padding: 10px;
+    padding-top: 30px;
     
 }
 .bloque form input{
@@ -46,25 +45,28 @@
    margin: 10px;   
 }
 .botonIngreso{
-    width: 12vw;
-    height:7vh;
+    width: 10vw;
+    height:4vh;
     background-color: #247AFD;
     border: 1px black solid;
     font-family: cursive;
     font-size: 1vw;
     border-radius: .80rem;
-    align-items: center;
-    padding: 0px;
-    
-    
+    text-align: center;  
+}
+.botonIngreso p{
+    margin: 0px;
 }
 .botonOlvide{
-    width: 12vw;
-    height:7vh;
+    width: 10vw;
+    height:4vh;
     background-color: #D8DCD6;
     border: 1px gray solid;
     font-family:'Times New Roman', Times, serif;
     font-size: 1vw;
     border-radius: .40rem;
     
+}
+.botonOlvide p{
+    margin: 0px;
 }
