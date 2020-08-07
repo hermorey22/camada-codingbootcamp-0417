@@ -82,7 +82,7 @@ h3{
     .fordodeinicio{
         
     width: 200px;
-    height: 300px;
+    height: 400px;
     border: 3px orangered solid;
     margin-top: 80px;
     background-color: white;
@@ -97,7 +97,7 @@ h3{
     .logo{
         width: 70px;
         height: 70px;
-        padding-top: 50px;
+        padding-top: 30px;
 
 }
 }
